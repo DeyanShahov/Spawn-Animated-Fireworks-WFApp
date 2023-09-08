@@ -9,4 +9,80 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Assets\images\fireworks_01.png" />
+    <None Remove="Assets\images\fireworks_02.png" />
+    <None Remove="Assets\images\fireworks_03.png" />
+    <None Remove="Assets\images\fireworks_04.png" />
+    <None Remove="Assets\images\fireworks_05.png" />
+    <None Remove="Assets\images\fireworks_06.png" />
+    <None Remove="Assets\images\fireworks_07.png" />
+    <None Remove="Assets\images\fireworks_08.png" />
+    <None Remove="Assets\images\fireworks_09.png" />
+    <None Remove="Assets\images\fireworks_10.png" />
+    <None Remove="Assets\images\fireworks_11.png" />
+    <None Remove="Assets\images\fireworks_12.png" />
+    <None Remove="Assets\images\fireworks_13.png" />
+    <None Remove="Assets\images\fireworks_14.png" />
+    <None Remove="Assets\images\fireworks_15.png" />
+    <None Remove="Assets\images\fireworks_16.png" />
+    <None Remove="Assets\images\fireworks_17.png" />
+    <None Remove="Assets\images\fireworks_18.png" />
+    <None Remove="Assets\images\fireworks_19.png" />
+    <None Remove="Assets\images\fireworks_20.png" />
+    <None Remove="Assets\images\fireworks_21.png" />
+    <None Remove="Assets\images\fireworks_22.png" />
+    <None Remove="Assets\images\fireworks_23.png" />
+    <None Remove="Assets\images\fireworks_24.png" />
+    <None Remove="Assets\images\fireworks_25.png" />
+    <None Remove="Assets\images\fireworks_26.png" />
+    <None Remove="Assets\images\fireworks_27.png" />
+    <None Remove="Assets\images\fireworks_28.png" />
+    <None Remove="Assets\images\fireworks_29.png" />
+    <None Remove="Assets\images\fireworks_30.png" />
+    <None Remove="Assets\images\fireworks_31.png" />
+    <None Remove="Assets\images\fireworks_32.png" />
+    <None Remove="Assets\images\fireworks_33.png" />
+    <None Remove="Assets\images\fireworks_34.png" />
+    <None Remove="Assets\images\fireworks_35.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\images\fireworks_01.png" />
+    <Resource Include="Assets\images\fireworks_02.png" />
+    <Resource Include="Assets\images\fireworks_03.png" />
+    <Resource Include="Assets\images\fireworks_04.png" />
+    <Resource Include="Assets\images\fireworks_05.png" />
+    <Resource Include="Assets\images\fireworks_06.png" />
+    <Resource Include="Assets\images\fireworks_07.png" />
+    <Resource Include="Assets\images\fireworks_08.png" />
+    <Resource Include="Assets\images\fireworks_09.png" />
+    <Resource Include="Assets\images\fireworks_10.png" />
+    <Resource Include="Assets\images\fireworks_11.png" />
+    <Resource Include="Assets\images\fireworks_12.png" />
+    <Resource Include="Assets\images\fireworks_13.png" />
+    <Resource Include="Assets\images\fireworks_14.png" />
+    <Resource Include="Assets\images\fireworks_15.png" />
+    <Resource Include="Assets\images\fireworks_16.png" />
+    <Resource Include="Assets\images\fireworks_17.png" />
+    <Resource Include="Assets\images\fireworks_18.png" />
+    <Resource Include="Assets\images\fireworks_19.png" />
+    <Resource Include="Assets\images\fireworks_20.png" />
+    <Resource Include="Assets\images\fireworks_21.png" />
+    <Resource Include="Assets\images\fireworks_22.png" />
+    <Resource Include="Assets\images\fireworks_23.png" />
+    <Resource Include="Assets\images\fireworks_24.png" />
+    <Resource Include="Assets\images\fireworks_25.png" />
+    <Resource Include="Assets\images\fireworks_26.png" />
+    <Resource Include="Assets\images\fireworks_27.png" />
+    <Resource Include="Assets\images\fireworks_28.png" />
+    <Resource Include="Assets\images\fireworks_29.png" />
+    <Resource Include="Assets\images\fireworks_30.png" />
+    <Resource Include="Assets\images\fireworks_31.png" />
+    <Resource Include="Assets\images\fireworks_32.png" />
+    <Resource Include="Assets\images\fireworks_33.png" />
+    <Resource Include="Assets\images\fireworks_34.png" />
+    <Resource Include="Assets\images\fireworks_35.png" />
+  </ItemGroup>
+
 </Project>
